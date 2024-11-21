@@ -1,0 +1,5 @@
+/**/node_modules/
+/**/*.h5
+/**/__pycache__/
+/**/**/__pycache__/
+/**/**/bin/
